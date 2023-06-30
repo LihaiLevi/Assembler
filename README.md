@@ -6,12 +6,12 @@ This readme file provides an overview and instructions for the Assembler project
 
 The project consists of the following files:
 
-1.`firstRead.c`: Contains the implementation of the first pass of the assembler.
-2.`secondRead.c`: Contains the implementation of the second pass of the assembler.
-3.`main.c`: The main entry point of the program.
-4.`utility.c`: Contains utility functions used in the assembler.
-5.`makefile`: The makefile for compiling and building the project.
-6.`assembler.h`: The header file containing function declarations and necessary data structures.
+1. `firstRead.c`: Contains the implementation of the first pass of the assembler.
+2. `secondRead.c`: Contains the implementation of the second pass of the assembler.
+3. `main.c`: The main entry point of the program.
+4. `utility.c`: Contains utility functions used in the assembler.
+5. `makefile`: The makefile for compiling and building the project.
+6. `assembler.h`: The header file containing function declarations and necessary data structures.
 
 ## Prerequisites
 
