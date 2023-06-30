@@ -11,7 +11,7 @@ The project consists of the following files:
 3.`main.c`: The main entry point of the program.
 4.`utility.c`: Contains utility functions used in the assembler.
 5.`makefile`: The makefile for compiling and building the project.
-6. `assembler.h`: The header file containing function declarations and necessary data structures.
+6.`assembler.h`: The header file containing function declarations and necessary data structures.
 
 ## Prerequisites
 
